@@ -1,5 +1,5 @@
 # naruto_da_redacao
-Um jogo desenvolvido com a tecnologia scratch que conta com a interação do usuário pelo teclado, multimídia, side 
+Um jogo desenvolvido com a tecnologia scratch que conta com a interação do usuário pelo teclado, multimídia, side scrolling
 
 Versão Mobile:
 https://scratch.mit.edu/projects/469106488/fullscreen/
